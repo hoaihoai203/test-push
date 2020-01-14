@@ -1,0 +1,23 @@
+PODS:
+  - ZDCChat (1.4.5):
+    - ZDCChat/API (= 1.4.5)
+    - ZDCChat/Localization (= 1.4.5)
+    - ZDCChat/UI (= 1.4.5)
+  - ZDCChat/API (1.4.5)
+  - ZDCChat/Localization (1.4.5)
+  - ZDCChat/UI (1.4.5):
+    - ZDCChat/API
+
+DEPENDENCIES:
+  - ZDCChat
+
+SPEC REPOS:
+  trunk:
+    - ZDCChat
+
+SPEC CHECKSUMS:
+  ZDCChat: ce527de86c39efd6a10024f553ed756a400d66f0
+
+PODFILE CHECKSUM: 56ccc6bdd08e7ad1fd40145f27f89661fda0b57c
+
+COCOAPODS: 1.8.4
